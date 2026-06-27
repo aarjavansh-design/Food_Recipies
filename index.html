@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="FoodVerse is a luxury vegetarian recipe website with live search, category filters, favorites, and step-by-step cooking instructions." />
+  <meta name="keywords" content="FoodVerse, vegetarian recipes, vegan recipes, healthy recipes, recipe website" />
+  <meta name="author" content="FoodVerse" />
+  <meta name="theme-color" content="#050505" />
+  <meta property="og:title" content="FoodVerse | Luxury Vegetarian Recipes" />
+  <meta property="og:description" content="Discover vegetarian recipes with live search, categories, favorites, and polished cooking guidance." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://images.unsplash.com/photo-1543353071-873f17a7a088?auto=format&fit=crop&w=1200&q=80" />
+  <title>FoodVerse | Luxury Vegetarian Recipes</title>
+  <link rel="preconnect" href="https://images.unsplash.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"FoodVerse","description":"A luxury vegetarian recipe website with searchable recipes and favorites.","potentialAction":{"@type":"SearchAction","target":"https://example.com/?search={search_term_string}","query-input":"required name=search_term_string"}}</script>
+</head>
+<body>
+  <header class="site-header" id="top">
+    <nav class="nav glass-panel" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="FoodVerse homepage"><span class="brand-mark">F</span><span>FoodVerse</span></a>
+      <div class="nav-links"><a href="#featured">Featured</a><a href="#trending">Trending</a><a href="#recipes">Recipes</a></div>
+      <button class="theme-toggle gold-button" type="button" id="themeToggle" aria-label="Toggle dark mode">Dark</button>
+    </nav>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero-media" aria-hidden="true"></div>
+      <div class="hero-content">
+        <p class="eyebrow">Vegetarian cuisine, elevated</p>
+        <h1 id="heroTitle">FoodVerse</h1>
+        <p class="hero-copy">A polished recipe universe for vegetarian cooking, from weekday bowls to dinner-party dishes.</p>
+        <div class="search-shell glass-panel">
+          <label for="searchInput">Search recipes</label>
+          <div class="search-row"><input id="searchInput" type="search" placeholder="Search by title, ingredient, or category..." autocomplete="off" /><button class="gold-button" type="button" id="clearSearch">Clear</button></div>
+        </div>
+      </div>
+    </section>
+    <section class="stats-strip" aria-label="FoodVerse highlights"><div><strong id="recipeCount">100+</strong><span>Vegetarian recipes</span></div><div><strong>10</strong><span>Plant-forward categories</span></div><div><strong>Local</strong><span>Saved favorites</span></div></section>
+    <section class="section-wrap" id="featured"><div class="section-heading"><div><p class="eyebrow">Editor's selection</p><h2>Featured Recipes</h2></div></div><div class="recipe-grid featured-grid" id="featuredRecipes"></div></section>
+    <section class="section-wrap" id="trending"><div class="section-heading"><div><p class="eyebrow">Most cooked this week</p><h2>Trending Recipes</h2></div></div><div class="recipe-grid" id="trendingRecipes"></div></section>
+    <section class="section-wrap recipes-section" id="recipes"><div class="section-heading"><div><p class="eyebrow">Vegetarian categories only</p><h2>Explore Recipes</h2></div></div><div class="filter-bar glass-panel" id="categoryFilters" aria-label="Recipe category filters"></div><div class="results-meta"><span id="resultsCount">Loading recipes...</span><button class="text-button" type="button" id="favoritesOnly">Show favorites</button></div><div class="recipe-grid" id="recipeGrid"></div><p class="empty-state" id="emptyState" hidden>No vegetarian recipes match your search yet.</p></section>
+  </main>
+  <dialog class="recipe-modal" id="recipeModal"><article class="modal-card"><button class="close-button" type="button" id="closeModal" aria-label="Close recipe details">x</button><img id="modalImage" src="" alt="" /><div class="modal-content"><p class="eyebrow" id="modalCategory"></p><h2 id="modalTitle"></h2><div class="meta-list" id="modalMeta"></div><h3>Ingredients</h3><ul id="modalIngredients"></ul><h3>Instructions</h3><ol id="modalInstructions"></ol></div></article></dialog>
+  <footer class="site-footer"><p>FoodVerse is a static vegetarian recipe experience built for GitHub Pages.</p><a href="#top">Back to top</a></footer>
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>

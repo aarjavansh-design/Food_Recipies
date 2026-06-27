@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "recipe-001",
+    "title": "Golden Quinoa Bowl",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=1",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Easy",
+    "calories": 260,
+    "featured": true,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-002",
+    "title": "Velvet Tomato Soup",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=2",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Medium",
+    "calories": 295,
+    "featured": true,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-003",
+    "title": "Crisp Garden Salad",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=3",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Chef Style",
+    "calories": 330,
+    "featured": true,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-004",
+    "title": "Truffle Mushroom Pasta",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=4",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Easy",
+    "calories": 365,
+    "featured": true,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-005",
+    "title": "Saffron Paneer Rice",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=5",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Medium",
+    "calories": 400,
+    "featured": true,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-006",
+    "title": "Coconut Chickpea Curry",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=6",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Chef Style",
+    "calories": 435,
+    "featured": true,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-007",
+    "title": "Roasted Pepper Tartine",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=7",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Easy",
+    "calories": 470,
+    "featured": true,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-008",
+    "title": "Cardamom Rice Pudding",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=8",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Medium",
+    "calories": 505,
+    "featured": true,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-009",
+    "title": "Avocado Millet Bowl",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=9",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Chef Style",
+    "calories": 540,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-010",
+    "title": "Lentil Power Plate",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=10",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Easy",
+    "calories": 575,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-011",
+    "title": "Spinach Ricotta Shells",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=11",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Medium",
+    "calories": 610,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-012",
+    "title": "Miso Vegetable Ramen",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=12",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Chef Style",
+    "calories": 645,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-013",
+    "title": "Herbed Falafel Wrap",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=13",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Easy",
+    "calories": 260,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-014",
+    "title": "Masala Sweet Potato",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=14",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Medium",
+    "calories": 295,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-015",
+    "title": "Zucchini Ribbon Pasta",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=15",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Chef Style",
+    "calories": 330,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-016",
+    "title": "Black Bean Tacos",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=16",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Easy",
+    "calories": 365,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-017",
+    "title": "Paneer Tikka Skewers",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=17",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Medium",
+    "calories": 400,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-018",
+    "title": "Thai Basil Tofu",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=18",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Chef Style",
+    "calories": 435,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-019",
+    "title": "Pumpkin Sage Risotto",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=19",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Easy",
+    "calories": 470,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-020",
+    "title": "Berry Chia Parfait",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=20",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Medium",
+    "calories": 505,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-021",
+    "title": "Golden Quinoa Bowl 2",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=21",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Chef Style",
+    "calories": 540,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-022",
+    "title": "Velvet Tomato Soup 2",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=22",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Easy",
+    "calories": 575,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-023",
+    "title": "Crisp Garden Salad 2",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=23",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Medium",
+    "calories": 610,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-024",
+    "title": "Truffle Mushroom Pasta 2",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=24",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Chef Style",
+    "calories": 645,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-025",
+    "title": "Saffron Paneer Rice 2",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=25",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Easy",
+    "calories": 260,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-026",
+    "title": "Coconut Chickpea Curry 2",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=26",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Medium",
+    "calories": 295,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-027",
+    "title": "Roasted Pepper Tartine 2",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=27",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Chef Style",
+    "calories": 330,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-028",
+    "title": "Cardamom Rice Pudding 2",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=28",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Easy",
+    "calories": 365,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-029",
+    "title": "Avocado Millet Bowl 2",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=29",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Medium",
+    "calories": 400,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-030",
+    "title": "Lentil Power Plate 2",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=30",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Chef Style",
+    "calories": 435,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-031",
+    "title": "Spinach Ricotta Shells 2",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=31",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Easy",
+    "calories": 470,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-032",
+    "title": "Miso Vegetable Ramen 2",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=32",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Medium",
+    "calories": 505,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-033",
+    "title": "Herbed Falafel Wrap 2",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=33",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Chef Style",
+    "calories": 540,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-034",
+    "title": "Masala Sweet Potato 2",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=34",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Easy",
+    "calories": 575,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-035",
+    "title": "Zucchini Ribbon Pasta 2",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=35",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Medium",
+    "calories": 610,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-036",
+    "title": "Black Bean Tacos 2",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=36",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Chef Style",
+    "calories": 645,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-037",
+    "title": "Paneer Tikka Skewers 2",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=37",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Easy",
+    "calories": 260,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-038",
+    "title": "Thai Basil Tofu 2",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=38",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Medium",
+    "calories": 295,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-039",
+    "title": "Pumpkin Sage Risotto 2",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=39",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Chef Style",
+    "calories": 330,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-040",
+    "title": "Berry Chia Parfait 2",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=40",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Easy",
+    "calories": 365,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-041",
+    "title": "Golden Quinoa Bowl 3",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=41",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Medium",
+    "calories": 400,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-042",
+    "title": "Velvet Tomato Soup 3",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=42",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Chef Style",
+    "calories": 435,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-043",
+    "title": "Crisp Garden Salad 3",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=43",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Easy",
+    "calories": 470,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-044",
+    "title": "Truffle Mushroom Pasta 3",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=44",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Medium",
+    "calories": 505,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-045",
+    "title": "Saffron Paneer Rice 3",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=45",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Chef Style",
+    "calories": 540,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-046",
+    "title": "Coconut Chickpea Curry 3",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=46",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Easy",
+    "calories": 575,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-047",
+    "title": "Roasted Pepper Tartine 3",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=47",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Medium",
+    "calories": 610,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-048",
+    "title": "Cardamom Rice Pudding 3",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=48",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Chef Style",
+    "calories": 645,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-049",
+    "title": "Avocado Millet Bowl 3",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=49",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Easy",
+    "calories": 260,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-050",
+    "title": "Lentil Power Plate 3",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=50",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Medium",
+    "calories": 295,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-051",
+    "title": "Spinach Ricotta Shells 3",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=51",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Chef Style",
+    "calories": 330,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-052",
+    "title": "Miso Vegetable Ramen 3",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=52",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Easy",
+    "calories": 365,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-053",
+    "title": "Herbed Falafel Wrap 3",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=53",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Medium",
+    "calories": 400,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-054",
+    "title": "Masala Sweet Potato 3",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=54",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Chef Style",
+    "calories": 435,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-055",
+    "title": "Zucchini Ribbon Pasta 3",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=55",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Easy",
+    "calories": 470,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-056",
+    "title": "Black Bean Tacos 3",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=56",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Medium",
+    "calories": 505,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-057",
+    "title": "Paneer Tikka Skewers 3",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=57",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Chef Style",
+    "calories": 540,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-058",
+    "title": "Thai Basil Tofu 3",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=58",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Easy",
+    "calories": 575,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-059",
+    "title": "Pumpkin Sage Risotto 3",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=59",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Medium",
+    "calories": 610,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-060",
+    "title": "Berry Chia Parfait 3",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=60",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Chef Style",
+    "calories": 645,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-061",
+    "title": "Golden Quinoa Bowl 4",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=61",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Easy",
+    "calories": 260,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-062",
+    "title": "Velvet Tomato Soup 4",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=62",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Medium",
+    "calories": 295,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-063",
+    "title": "Crisp Garden Salad 4",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=63",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Chef Style",
+    "calories": 330,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-064",
+    "title": "Truffle Mushroom Pasta 4",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=64",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Easy",
+    "calories": 365,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-065",
+    "title": "Saffron Paneer Rice 4",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=65",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Medium",
+    "calories": 400,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-066",
+    "title": "Coconut Chickpea Curry 4",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=66",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Chef Style",
+    "calories": 435,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-067",
+    "title": "Roasted Pepper Tartine 4",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=67",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Easy",
+    "calories": 470,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-068",
+    "title": "Cardamom Rice Pudding 4",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=68",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Medium",
+    "calories": 505,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-069",
+    "title": "Avocado Millet Bowl 4",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=69",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Chef Style",
+    "calories": 540,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-070",
+    "title": "Lentil Power Plate 4",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=70",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Easy",
+    "calories": 575,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-071",
+    "title": "Spinach Ricotta Shells 4",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=71",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Medium",
+    "calories": 610,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-072",
+    "title": "Miso Vegetable Ramen 4",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=72",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Chef Style",
+    "calories": 645,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-073",
+    "title": "Herbed Falafel Wrap 4",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=73",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Easy",
+    "calories": 260,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-074",
+    "title": "Masala Sweet Potato 4",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=74",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Medium",
+    "calories": 295,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-075",
+    "title": "Zucchini Ribbon Pasta 4",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=75",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Chef Style",
+    "calories": 330,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-076",
+    "title": "Black Bean Tacos 4",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=76",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Easy",
+    "calories": 365,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-077",
+    "title": "Paneer Tikka Skewers 4",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=77",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Medium",
+    "calories": 400,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-078",
+    "title": "Thai Basil Tofu 4",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=78",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Chef Style",
+    "calories": 435,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-079",
+    "title": "Pumpkin Sage Risotto 4",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=79",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Easy",
+    "calories": 470,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-080",
+    "title": "Berry Chia Parfait 4",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=80",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Medium",
+    "calories": 505,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-081",
+    "title": "Golden Quinoa Bowl 5",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=81",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Chef Style",
+    "calories": 540,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-082",
+    "title": "Velvet Tomato Soup 5",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=82",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Easy",
+    "calories": 575,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-083",
+    "title": "Crisp Garden Salad 5",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=83",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Medium",
+    "calories": 610,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-084",
+    "title": "Truffle Mushroom Pasta 5",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=84",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Chef Style",
+    "calories": 645,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-085",
+    "title": "Saffron Paneer Rice 5",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=85",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Easy",
+    "calories": 260,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-086",
+    "title": "Coconut Chickpea Curry 5",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=86",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Medium",
+    "calories": 295,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-087",
+    "title": "Roasted Pepper Tartine 5",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=87",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Chef Style",
+    "calories": 330,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-088",
+    "title": "Cardamom Rice Pudding 5",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=88",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Easy",
+    "calories": 365,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-089",
+    "title": "Avocado Millet Bowl 5",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=89",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Medium",
+    "calories": 400,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-090",
+    "title": "Lentil Power Plate 5",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=90",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Chef Style",
+    "calories": 435,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-091",
+    "title": "Spinach Ricotta Shells 5",
+    "category": "Breakfast",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20bowl,food&sig=91",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Easy",
+    "calories": 470,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-092",
+    "title": "Miso Vegetable Ramen 5",
+    "category": "Soups",
+    "image": "https://source.unsplash.com/900x700/?tomato%20soup,food&sig=92",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Medium",
+    "calories": 505,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-093",
+    "title": "Herbed Falafel Wrap 5",
+    "category": "Salads",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20salad,food&sig=93",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Chef Style",
+    "calories": 540,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-094",
+    "title": "Masala Sweet Potato 5",
+    "category": "Pasta",
+    "image": "https://source.unsplash.com/900x700/?mushroom%20pasta,food&sig=94",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "30 min",
+    "difficulty": "Easy",
+    "calories": 575,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-095",
+    "title": "Zucchini Ribbon Pasta 5",
+    "category": "Rice Bowls",
+    "image": "https://source.unsplash.com/900x700/?indian%20vegetarian%20rice,food&sig=95",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "35 min",
+    "difficulty": "Medium",
+    "calories": 610,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-096",
+    "title": "Black Bean Tacos 5",
+    "category": "Curries",
+    "image": "https://source.unsplash.com/900x700/?chickpea%20curry,food&sig=96",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "40 min",
+    "difficulty": "Chef Style",
+    "calories": 645,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-097",
+    "title": "Paneer Tikka Skewers 5",
+    "category": "Snacks",
+    "image": "https://source.unsplash.com/900x700/?vegetarian%20toast,food&sig=97",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "45 min",
+    "difficulty": "Easy",
+    "calories": 260,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-098",
+    "title": "Thai Basil Tofu 5",
+    "category": "Desserts",
+    "image": "https://source.unsplash.com/900x700/?rice%20pudding,food&sig=98",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "50 min",
+    "difficulty": "Medium",
+    "calories": 295,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-099",
+    "title": "Pumpkin Sage Risotto 5",
+    "category": "Vegan",
+    "image": "https://source.unsplash.com/900x700/?avocado%20bowl,food&sig=99",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "20 min",
+    "difficulty": "Chef Style",
+    "calories": 330,
+    "featured": false,
+    "trending": false,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  },
+  {
+    "id": "recipe-100",
+    "title": "Berry Chia Parfait 5",
+    "category": "High Protein",
+    "image": "https://source.unsplash.com/900x700/?lentil%20salad,food&sig=100",
+    "ingredients": [
+      "2 cups seasonal vegetables",
+      "1 cup whole grain or legumes",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp sea salt",
+      "1 tsp cracked black pepper",
+      "1 tbsp fresh herbs",
+      "1 lemon wedge",
+      "1/2 cup yogurt, tofu, or paneer"
+    ],
+    "cookingTime": "25 min",
+    "difficulty": "Easy",
+    "calories": 365,
+    "featured": false,
+    "trending": true,
+    "instructions": [
+      "Wash, trim, and prepare all vegetables before heating the pan.",
+      "Warm oil in a heavy pan and add aromatics until fragrant.",
+      "Add the main vegetables, grain, or protein and cook until lightly golden.",
+      "Season with salt, pepper, herbs, and a bright squeeze of lemon.",
+      "Simmer or toss until the texture is tender and glossy.",
+      "Plate neatly, garnish with herbs, and serve warm."
+    ]
+  }
+]
